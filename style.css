@@ -99,16 +99,14 @@ a.icons-a {
   background-color: #333;
   line-height: 40px;
 }
-.client img{
-    height:auto;
-    max-height: 50px;
-
+.client img {
+  height: auto;
+  max-height: 50px;
 }
-.contact{
-    background: url(./images/balıkesir.png) no-repeat center center;
-       background-size: cover;
-       padding-bottom: 20%;
-       padding-top:20%;
-       color:#eee;
-
+.contact {
+  background: url(./images/balıkesir.png) no-repeat center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #eee;
 }
